@@ -1,7 +1,7 @@
 
 /**
- *
- * @author
+ *Vincent Nguyen
+ *CS108
  */
 class UnitTests {
 

@@ -1,11 +1,11 @@
 # Bank_Account
 CS108 Final Program
 
-Name: Vincent Nguyen
-RedID: 821606299
-GitHub UserName: vincenthihi
-Project Name: Bank_Account
-Date:5/14/2020
+-Name: Vincent Nguyen
+-RedID: 821606299
+-GitHub UserName: vincenthihi
+-Project Name: Bank_Account
+-Date:5/14/2020
 
 Decription of project:
 - My project is basically a Bank Account Management System. This includes a checking and saving account. The bank is also able to pull up any account and check, as well as adding or removing accounts from the bank.  

@@ -8,7 +8,7 @@ CS108 Final Program
 * Date:5/14/2020
 
 Decription of project:
-- My project is basically a Bank Account Management System. This includes a checking and saving account. The bank is also able to pull up any account and check, as well as adding or removing accounts from the bank.  
+- My project is a Bank Account Management System. This includes a checking and saving account. The bank is also able to pull up any account and check, as well as adding or removing accounts from the bank.  
 
 Description of each file:
 -Bank.java: The Bank is able to check (Binary Search) sorted (used SELECTION SORT) account details with their given account IDs. The Bank can also ADD or REMOVE accounts via their IDs as well (Linked List).
